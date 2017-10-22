@@ -2,7 +2,7 @@
 Provide simple function for grab Fashion-MNIST(`https://github.com/zalandoresearch/fashion-mnist`) dataset.
 
 ## Requirements
-Python 3.5+ (sorry, I didn't test in python2.),
+Python 3.5+, 3.6+ (sorry, I didn't test in python2.),
 Chainer, numpy
 
 ## Install
